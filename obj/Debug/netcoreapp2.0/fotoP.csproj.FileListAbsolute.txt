@@ -1,0 +1,11 @@
+I:\NetProjects\fotoP\bin\Debug\netcoreapp2.0\fotoP.deps.json
+I:\NetProjects\fotoP\bin\Debug\netcoreapp2.0\fotoP.runtimeconfig.json
+I:\NetProjects\fotoP\bin\Debug\netcoreapp2.0\fotoP.runtimeconfig.dev.json
+I:\NetProjects\fotoP\bin\Debug\netcoreapp2.0\fotoP.dll
+I:\NetProjects\fotoP\bin\Debug\netcoreapp2.0\fotoP.pdb
+I:\NetProjects\fotoP\obj\Debug\netcoreapp2.0\fotoP.csproj.CoreCompileInputs.cache
+I:\NetProjects\fotoP\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+I:\NetProjects\fotoP\obj\Debug\netcoreapp2.0\fotoP.AssemblyInfoInputs.cache
+I:\NetProjects\fotoP\obj\Debug\netcoreapp2.0\fotoP.AssemblyInfo.cs
+I:\NetProjects\fotoP\obj\Debug\netcoreapp2.0\fotoP.dll
+I:\NetProjects\fotoP\obj\Debug\netcoreapp2.0\fotoP.pdb
